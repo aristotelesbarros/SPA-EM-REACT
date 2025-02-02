@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "nome": "The Legend of Zelda: Breath of the Wild",
+    "descricao": "Jogo de aventura e exploração para Nintendo Switch.",
+    "imagem" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIZMqJk0DvXY6VA4R4FZDLQDBdu56tLW0sw&s",
+    "preco" : 199
+  },
+  {
+    "id": 2,
+    "nome": "God of War Ragnarök",
+    "descricao": "Aventura épica para PlayStation 5.",
+    "imagem" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA_9x6K1PCsmwavPYjUaxoqrfitAOzb3I6ew&s",
+    "preco": 349.90
+  },
+  {
+    "id": 3,
+    "nome": "Elden Ring",
+    "descricao": "RPG de ação de mundo aberto para PC e consoles.",
+    "imagem" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeci69Y0ImnURrwV17S84hci534buyBNjlOw&s",
+    "preco": 299.90
+  },
+  {
+    "id": 4,
+    "nome": "Call of Duty: Modern Warfare II",
+    "descricao": "Jogo de tiro em primeira pessoa para múltiplas plataformas.",
+    "imagem" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz635QsxQqW5CdTfxWzfi0O-vIIV4nN53GrQ&s",
+    "preco": 319.90
+  },
+  {
+    "id": 5,
+    "nome": "FIFA 25",
+    "descricao": "Simulador de futebol para todos os consoles.",
+    "imagem" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYz2_kmaYhwgw-13qOxJ4hp0JLq-AmJ-hy2A&s",
+    "preco": 249.99
+  },
+  {
+    "id": 6,
+    "nome": "Minecraft",
+    "descricao": "Jogo de construção e sobrevivência para PC e consoles.",
+    "imagem" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6DKnP8m8EHbfT7f5L6ixqAvHiHQxxhFtkZg&s",
+    "preco": 149.90
+  },
+  {
+    "id": 7,
+    "nome": "Cyberpunk 2077",
+    "descricao": "RPG de mundo aberto ambientado em um futuro distópico.",
+    "imagem" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPLEQcn2ppjJkgSAE_G2ThpXr_WMVXmWFW9g&s",
+    "preco": 199.90
+  },
+  {
+    "id": 8,
+    "nome": "Resident Evil 4 Remake",
+    "descricao": "Jogo de ação e terror para consoles e PC.",
+    "imagem" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf9fS2NvSUIInpgWKcmmaYcgKEcgaqN0wDZw&s",
+    "preco": 279.99
+  },
+  
+   
+  {
+    "id": 9,
+    "nome": "Red Dead Redemption 2",
+    "descricao": "Jogo de mundo aberto no Velho Oeste com uma narrativa envolvente.",
+    "imagem" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsAfN_iyOnomrInKM6zpHm2vaeoEQ_h2MLRg&s",
+    "preco": 199.90
+  },
+  {
+    "id": 10,
+    "nome": "Assassin's Creed Valhalla",
+    "descricao": "RPG de ação no universo dos vikings.",
+    "imagem" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8tILVZhzFdE5jwEMLmeVePgEYc-3fqaQ2ig&s",
+    "preco": 279.90
+  },
+  {
+    "id": 11,
+    "nome": "The Witcher 3: Wild Hunt",
+    "descricao": "Jogo de RPG em mundo aberto baseado na série de livros The Witcher.",
+    "imagem" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe-UMYgpTSLzlYYroRCeNbFT2MTTwmaurGbQ&s",
+    "preco": 149.90
+  },
+  {
+    "id": 12,
+    "nome": "Grand Theft Auto V",
+    "descricao": "Jogo de mundo aberto com diversas missões e atividades.",
+    "imagem" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh-lWGPUxwRb0vPt2yMYNFFL5TJsWIRqZ_hQ&s",
+    "preco": 129.90
+  },
+  {
+    "id": 13,
+    "nome": "Hogwarts Legacy",
+    "descricao": "RPG de ação ambientado no universo de Harry Potter.",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjZ3KF_ZDSxR0_UPSg53gbxWYrr2_Swuv25w&s",
+    "preco": 299.90
+  },
+  {
+    "id": 14,
+    "nome": "Diablo IV",
+    "descricao": "Jogo de RPG e ação sombria com batalhas intensas.",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRawE66UXZkzt7FbmuFS3NGFdxzxGdDA2F4PQ&s",
+    "preco": 349.90
+  },
+  {
+    "id": 15,
+    "nome": "Baldur’s Gate 3",
+    "descricao": "RPG baseado no universo de Dungeons & Dragons.",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwPNdc4Z46zV20xm2JNE2qE-m_IaGQ2OwQZw&s",
+    "preco": 299.90
+  },
+  {
+    "id": 16,
+    "nome": "Starfield",
+    "descricao": "Jogo de exploração espacial e aventura futurista.",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbLHr9DKOYGff6ssDMUPdFJap8MvuAlT7R8g&s",
+    "preco": 349.90
+  }
+   
+]
