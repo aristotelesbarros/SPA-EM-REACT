@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom"
 import products from "../database.json"
 
 
@@ -15,9 +16,15 @@ export default function Products() {
               <h4>{product.nome}</h4>
               <img src={product.imagem} alt={product.nome} className="product-image" />
               <p>R${product.preco}</p>
-              <button>Ver</button>
-              <button>Comprar</button>
-            </li>
+              
+              
+              <Link to={`/products/${product.id}`}>  
+                <button>Ver</button>
+              </Link> 
+              <button>Comprar</button> 
+            </li> /* acima tire os link entre os botao ver para que ele fique bem alinhado, porem a nova funçao de rota nao ira funcionar
+            , temos que arrumar isso*/ 
+            
           ))}
         </ul>
       </section>
